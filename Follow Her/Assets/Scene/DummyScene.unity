@@ -1722,7 +1722,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 5000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -2718,13 +2718,13 @@ SceneRoots:
   - {fileID: 1823688467}
   - {fileID: 1353308492}
   - {fileID: 432432461}
+  - {fileID: 92156402}
+  - {fileID: 1465817883}
+  - {fileID: 2093156717}
   - {fileID: 2013410475}
   - {fileID: 211880880}
   - {fileID: 2713878207039412017}
   - {fileID: 710003745}
   - {fileID: 557498477}
   - {fileID: 437401604}
-  - {fileID: 92156402}
-  - {fileID: 1465817883}
-  - {fileID: 2093156717}
   - {fileID: 2009285277}
